@@ -1,3 +1,7 @@
+# Java_LAB_Works
+### This is repository for hosting Java Lab works and assignments based on B.Sc. CSIT syllabus.
+## Created By Samrat Subedi @https://github.com/SAmrat-543 .
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
