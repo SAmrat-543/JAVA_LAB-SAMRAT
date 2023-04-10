@@ -1,0 +1,2 @@
+Copied Data: 
+Hello this is an example of a simple text file.

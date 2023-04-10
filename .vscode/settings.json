@@ -2,6 +2,7 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "e:\\Samrat_Subedi_Roll_No-35\\Java\\DBFiles\\mysql-connector.jar"
     ]
 }

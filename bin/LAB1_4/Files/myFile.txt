@@ -1,0 +1,2 @@
+Hello, this is as example of the file to be read from the java program.
+--Samrat

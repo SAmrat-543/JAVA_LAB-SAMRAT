@@ -1,0 +1,4 @@
+New Data with Simple Interest (Name P R T = I):
+Sam 1000 8.8 2.0 = 176.00
+Harry 2000 7.5 5.2 = 780.00
+Nita 52100 5.5 8.5 = 24356.75
